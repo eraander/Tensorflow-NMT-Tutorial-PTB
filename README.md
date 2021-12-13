@@ -10,4 +10,4 @@
 - Run *preprocess.py* first, followed by *postprocess.py*. Because of incompatibility issues, please use Python 3.6 and TensorFlow 1.12.0 (do not use TensorFlow 2.0).
 
 ### Notes ###
-For more information, please see the enclosed write-up.
+For more information, please see the enclosed write-up (pa4_report.pdf).
